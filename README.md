@@ -1,7 +1,7 @@
-Show/hide system file from Alfred2 Workflow
+##Show/hide system file from Alfred2 Workflow
 =====================
 
-Very simple workflow that show or hide system files in Finder
+__Very simple workflow that show or hide system files in Finder__
 
 ##Usage:
 
